@@ -146,8 +146,6 @@ Add screenshots of:
 
 GitHub: https://github.com/Mahi-agrawal84
 
-LinkedIn: *Add Your LinkedIn Profile*
-
 ---
 
 ## ⭐ If you like this project
